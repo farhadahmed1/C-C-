@@ -12,3 +12,9 @@ int main () {
     printf("Total = %d", sum);
     return 0 ;
 }
+
+/*for( starting code ; continue condition ; repeatation ){
+    statements;
+}
+*/
+
