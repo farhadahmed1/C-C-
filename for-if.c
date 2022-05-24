@@ -16,7 +16,7 @@
 // application in real life  any number  gunonik  bahir korar formula
 
 #include<stdio.h>
-int main() {
+int main () {
     int n ;
     printf(" Enter the number = ");
     scanf("%d" , & n ) ;
@@ -33,4 +33,5 @@ int main() {
     printf(" Total sum = %d\n" , sum);
 
 }
+
 
